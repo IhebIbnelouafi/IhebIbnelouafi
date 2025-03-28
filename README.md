@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Tunisia.<br><br>🔭 I’m currently working on I'm honing my skills in web development and cloud computing to create robust and scalable applications.<br><br>🤝 I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.<br><br>📫 How to reach me belwafiiheb1@gmail.com</p>
+<p align="left">🌍 I'm based in Tunisia.<br><br>🔭 I’m currently working on honing my skills in web development and cloud computing to create robust and scalable applications.<br><br>🤝 I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.<br><br>📫 How to reach me belwafiiheb1@gmail.com</p>
 
 ###
 
